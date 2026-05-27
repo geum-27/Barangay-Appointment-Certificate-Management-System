@@ -23,10 +23,10 @@ The Barangay Clearance and Certificate Management System is a web-based platform
 - XAMPP / WAMP / Laragon
 
 # 1. Clone the repository:
-git clone https://github.com/geum-27/Barangay-Clearance-and-Certificate-Management System.git
+git clone https://github.com/geum-27/Barangay-Clearance-and-Certificate-Management-System.git
 
 # 2. Navigate to project folder:
-cd Barangay-Clearance-and-Certificate-Management System
+cd Barangay-Clearance-and-Certificate-Management-System
 
 # 3. Move project to your web server directory:
 XAMPP → htdocs folder
@@ -43,7 +43,7 @@ database/schema.sql
 
 Open browser and go to:
 
-http://localhost/Barangay-Clearance-and-Certificate-Management System/public/
+http://localhost/Barangay-Clearance-and-Certificate-Management-System/public/
 
 ## 👥 Team Members
 Morillon, Geuel — Lead Developer / QA
