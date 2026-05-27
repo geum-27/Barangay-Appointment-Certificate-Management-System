@@ -31,21 +31,19 @@ Barangay Clearance and Certificate Management System
 
 | Commenting Rule | Team Standard |
 |----------------|---------------|
-| File/module header comment | Multi-line comment documenting module purpose and system layer (frontend/backend/database)  |
-| Function/method doc comment | Structural PHPDoc standard summarizing inputs, outputs, behaviors |
-| Inline comments | Only for non-obvious logic calculations or contextual step workflows |
-| TODO format | `// TODO: description of feature modification` |
-| Comment language | English (Professional / Technical phrasing) |
+| File/module header comment | Describe purpose of module |
+| Function/method doc comment | Document parameters and return values |
+| Inline comments | Only for complex logic |
+| TODO comment format | TODO: description |
+| Language | English |
 
 ---
 
 ## 2.4 Branch Naming Strategy
 
-| Branch Type    | Naming Format          | Example                     |
-|----------------|------------------------|-----------------------------|
-| Feature branch | feature/<short-desc>   | feature/staff-dashboard     |
-| Bug fix branch | bugfix/<issue-id-desc> | bugfix/fix-modal-overflow   |
-| Hotfix branch  | hotfix/<emergency-desc>| hotfix/session-timeout-leak |
-| Release branch | release/v<version-num> | release/v1.0.0              |         -desc> | fix/auth-error |
+| Branch Type | Naming Format | Example |
+|-------------|---------------|---------|
+| Feature branch | feature/<short-desc> | feature/resident-login |
+| Bug fix branch | fix/<short-desc> | fix/auth-error |
 | Hotfix branch | hotfix/<short-desc> | hotfix/database |
 | Release branch | release/<version> | release/v1.0 |
