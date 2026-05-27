@@ -47,8 +47,11 @@ http://localhost/Barangay-Clearance-and-Certificate-Management-System/public/
 
 ## 👥 Team Members
 Morillon, Geuel — Lead Developer / QA
+
 Godiz, Kenly — Project Manager
+
 Sato, Mirai — Business Analyst
+
 Abejay, Franz Jedd — UI/UX Designer
 
 ## 📁 Project Structure
